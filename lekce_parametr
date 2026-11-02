@@ -1,0 +1,18 @@
+def scitani(a, b):
+    return a + b
+
+Soucet = scitani(5, 10)
+print("Součet je:", Soucet)
+
+Soucet2 = scitani(b=15, a=20)
+print("Součet 2 je:", Soucet2)
+
+
+def deleni(a, b):
+    if b == 0:
+        return "Nelze dělit nulou!"
+    else:
+        return a / b
+
+
+print("Dělení je:", deleni(b=0, a=10))
