@@ -10,4 +10,8 @@ git push
 ---
 
 zakladam existujici repozitar na jinem pc
-git clone <url odkazad na repositar>
+git clone <url odkazad na repositar
+
+---
+chci pouze aktualizovat repo na pc 
+git pull
