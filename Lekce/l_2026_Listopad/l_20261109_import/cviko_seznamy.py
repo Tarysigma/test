@@ -37,3 +37,11 @@ def vypocet_obvodu_obdelniku(dela, sirka):
     return 2 * (dela + sirka)
 
 print(f"Obvod obdelniku s delkou S a sirkou 3 je: {vypocet_obvodu_obdelniku(5, 3)}") 
+
+# odmocnina
+odmocnina = math.sqrt(256)
+odmocnina2 = math.sqrt(34654646465458896)
+print(f"Odmocnina z 256 je: {odmocnina}")
+print(f"Odmocnina z 34654646465458896 je: {odmocnina2}")
+
+print(dir(math))  # vypíše všechny atributy a metody modulu math
