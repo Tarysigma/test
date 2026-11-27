@@ -19,4 +19,5 @@ git pull
 
 | Číslo | Projekt | Datum zápisu |
 | --- | --- | --- |
-| 3 | [Převod teploty](Treti%20prace/prevod_teploty_projekt.md) – převod ze stupňů Celsia na Fahrenheity | 2026-11-26 |
+| 3 | [Převod teploty](Treti%20prace/prevod_teploty/prevod_teploty_projekt.md) – převod ze stupňů Celsia na Fahrenheity | 2026-11-26 |
+| 4 | [Kalkulačka](Treti%20prace/kalkulacka/kalkulacka_projekt.md) – základní výpočty se dvěma čísly | 2026-11-27 |
